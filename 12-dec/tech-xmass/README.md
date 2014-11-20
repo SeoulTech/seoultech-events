@@ -33,7 +33,7 @@ Rahm (Hyunjung Lee) is one of resident artists at Platoon and filmmaker. She wil
 http://www.leerahm.com/
 
 
-![Lee Rahm artwork](http://photos4.meetupstatic.com/photos/event/d/6/4/9/600_431694857.jpeg)
+![Lee Rahm artwork](http://static.wixstatic.com/media/53315f_58719342ebe544acbf9e977cc4744f0c.png_1024)
 
 
 
@@ -45,7 +45,7 @@ Sunghyun Choʼs performative installations have their origin in the perceptive e
 
 http://sunghyuncho.com 
 
-![Sunghyun Cho artwork #1](http://photos4.meetupstatic.com/photos/event/d/5/f/e/600_431694782.jpeg)
+![Sunghyun Cho artwork #1](http://3.bp.blogspot.com/-GDtRQdvKAPk/UWHxnRSKW4I/AAAAAAAACEw/2c78wQb__2k/s1600/1_830*306%25281%2529.jpg)
 
 
 
