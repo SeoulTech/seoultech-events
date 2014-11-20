@@ -15,7 +15,6 @@ Platoon Koonsthalle
 Before it's closed, 12.12.14, 8pm
 
 
-
 ## Official description
 SEOUL TECH VER 2.0  + ART Party
 
@@ -28,14 +27,13 @@ The worlds of art and technology are coming together! On December 12, Platoon Ku
 
 
 
-Lee Rahm 
+Lee Rahm
 
 Rahm (Hyunjung Lee) is one of resident artists at Platoon and filmmaker. She will display her art work in all four showcases (pictures and flat screens) and one larger installation will hang from the ceiling in the stage area. 
 http://www.leerahm.com/
 
 
-
-
+![Lee Rahm artwork](http://photos4.meetupstatic.com/photos/event/d/6/4/9/600_431694857.jpeg)
 
 
 
@@ -47,7 +45,7 @@ Sunghyun Choʼs performative installations have their origin in the perceptive e
 
 http://sunghyuncho.com 
 
-
+![Sunghyun Cho artwork #1](http://photos4.meetupstatic.com/photos/event/d/5/f/e/600_431694782.jpeg)
 
 
 
