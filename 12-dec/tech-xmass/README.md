@@ -6,7 +6,7 @@ Responsible: @victoria-bondarchuk
 Cristmass party consists of:
  - art (resedent artist installation)
  - video TBD by Victoria
- - music TBD Ilya & Alex
+ - music TBD Ilya & Alex [here](music-playlist.md)
 
 ## Where
 Platoon Koonsthalle
